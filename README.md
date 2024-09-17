@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tatvam" alt="tatvam" /> </p>
 
-- 🏤 Organizations i have worked for
+- 🏤 Organizations I have worked for
   - **MathWorks**   
   - **Unacademy**
   - **Byju's**
