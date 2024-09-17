@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tatvam Dadheech</h1>
+<h3 align="center">A passionate Computer Science enthusiast from India. Graduated from IIT Bhubaneswar with a Bachelors degree.</h3>
 
-<!--
-**Tatvam/tatvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tatvam" alt="tatvam" /> </p>
 
-Here are some ideas to get you started:
+- 🏤 Organizations i have worked for
+  - **MathWorks**   
+  - **Unacademy**
+  - **Byju's**
+  - **Gameberry Labs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 You can reach me at **tatvamdadheech@gmail.com**
+
+
+<p align="center"> 
+<a href="https://linkedin.com/in/tatvam-dadheech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tatvam-dadheech" height="30" width="30" /></a>
+</p>
